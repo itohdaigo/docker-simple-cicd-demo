@@ -4,9 +4,9 @@
     "workspaceFolder": "/workspace",
     "dockerComposeFile": "../../docker-compose.yml",
     "customizations": {
-        "vscode": {
-            "extensions": [
-                "vscjava.vscode-spring-initializer",
+        "vscode":{
+            "extensions":[
+                "vscjava.vscode-spring-initializr",
                 "pivotal.vscode-spring-boot",
                 "pivotal.vscode-boot-dev-pack",
                 "vscjava.vscode-spring-boot-dashboard",
